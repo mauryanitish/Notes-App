@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+    <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.NotesApp" parent="Base.Theme.NotesApp" />
+
+    <style name="MyThemeOverlay_Toolbar" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
+        <!-- color used by navigation icon and overflow icon -->
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+
+    <color name="my_light_primary">@color/btn_color</color>
+    <color name="hint_color">#4B000000</color>
+    <color name="keep_notes">@color/black</color>
+</resources>

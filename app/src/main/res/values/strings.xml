@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="search_note">Search note..</string>
+    <string name="add_byn">add item</string>
+    <string name="imgDescription">Logo Image\n</string>
+    <string name="write_heading">Write Topic Name....</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topicContent">Topic content area</string>
+</resources>

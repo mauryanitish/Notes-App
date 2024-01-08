@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#eff3f8</color>
+    <color name="btn_color">#3857f4</color>
+
+    <!--    Card dot color-->
+    <color name="dot1">#00BCA7</color>
+    <color name="dot2">#B803CF</color>
+    <color name="dot3">#E44D02</color>
+    <color name="dot4">#98D500</color>
+    <color name="dot5">#03C142</color>
+    <color name="dot6">#E91E63</color>
+    <color name="dot7">#2BF7FF</color>
+</resources>

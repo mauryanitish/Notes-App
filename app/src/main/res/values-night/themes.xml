@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/btn_color</item>
+    </style>
+
+<!--    Searchbar theme-->
+    <style name="ThemeOverlay.SearchView" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColorHint">@color/hint_color</item>
+        <item name="android:editTextColor">@color/black</item>
+    </style>
+
+    <color name="hint_color">#4B000000</color>
+    <color name="keep_notes">#ffffffff</color>
+</resources>
