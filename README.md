@@ -3,6 +3,6 @@ It is simple note app. In which peform crud operation. It is store the data in l
 <img src="app/src/main/ic_launcher-playstore.png" alt = "App Icon" width="80" height="80"/>
 <h6>Click to download Note App Application</h6>
 
-<a href="https://raw.githubusercontent.com/mauryanitish/Notes-App/Version/app-debug.apk" download>
+<a href="https://github.com/mauryanitish/Notes-App/commits/Version/app-debug.apk" download>
     Download My Awesome App APK
 </a>        
