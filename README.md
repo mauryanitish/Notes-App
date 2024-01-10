@@ -6,5 +6,17 @@ It is simple note app. In which peform crud operation. It is store the data in l
 <a href="https://github.com/mauryanitish/Notes-App/releases/download/Version/app-debug.apk" title="Download" download>
     Download My Awesome App APK
 </a>
-
+<br>
+<h4>Application Screen</h4>
+<p>First Screen open : </p><br>
+<img src="pic/StartScreen.png" width="200px"/> 
+<br>
+<p>Add note screen : </p><br>
+<img src="pic/AddNoteScreen.png" width="200px"/> 
+<br>
+<p>Save and delete note : </p><br>
+<img src="pic/Icons.png" width="200px"/> 
+<br>
+<p>Show note on screen : </p><br>
+<img src="pic/AfterAddNote.png" width="200px"/> 
     
