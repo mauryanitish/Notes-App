@@ -19,4 +19,7 @@ It is simple note app. In which peform crud operation. It is store the data in l
 <br>
 <p>Show note on screen : </p><br>
 <img src="pic/AfterAddNote.png" width="200px"/> 
+<br>
+<p>Long click on item to delete pop-up box open : </p><br>
+<img src="pic/Delete.png" width="200px"/>
     
