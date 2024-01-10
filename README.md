@@ -9,14 +9,14 @@ It is simple note app. In which peform crud operation. It is store the data in l
 <br>
 <h4>Application Screen</h4>
 <p>First Screen open : </p><br>
-<img src="pic/StartScreen.png" width="50px"/> 
+<img src="pic/StartScreen.png" width="200px"/> 
 <br>
 <p>Add note screen : </p><br>
-<img src="pic/AddNoteScreen.png" width="50px"/> 
+<img src="pic/AddNoteScreen.png" width="200px"/> 
 <br>
 <p>Save and delete note : </p><br>
-<img src="pic/Icons.png" width="50px"/> 
+<img src="pic/Icons.png" width="200px"/> 
 <br>
 <p>Show note on screen : </p><br>
-<img src="pic/AfterAddNote.png" width="50px"/> 
+<img src="pic/AfterAddNote.png" width="200px"/> 
     
